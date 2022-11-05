@@ -7,3 +7,5 @@ In each filing, committees give an overview of their financial activity. The can
 
 We took up the file for 2021-2022 year and cleaned the dataset. The same cleaning steps were then implemented for the other 7 previous year's files. 
 We found this dataset as a really good technique of applying some of the concepts that we learnt in the data cleaning class.
+
+Below is a description of the columns that we cleaned and checked based on the data dictionary that we found on the website. URL: https://www.fec.gov/campaign-finance-data/candidate-summary-file-description/
