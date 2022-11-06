@@ -20,7 +20,7 @@ Given the inaccuracy of data, we intended on scrubbing the following items:
 |Cand_Name | Split the candidate name as First Name and Last Name | Understanding Tidy Data in Spreadsheets | String Split function, Lambda function |
 |Cand_Id | Performing quality check on the pattern of Cand_Id | Data Documentation and Curation | Data frame sorting, Lambda function |
 |Cand_Office | Improving readability of data by handling abbreviation of data | Understanding Tidy Data in Spreadsheets | String, Replace function |
-|Cand_Office_St | Whitelisting Candidate Office State to check if the state name mentioned is correct, if not then modify it to 'Not Specified' | Data Documentation and Curation | Lambda Function |
+|Cand_Office_St | Whitelisting Candidate Office State to check if the state name mentioned is correct, if not then modify it to 'Unknown' | Data Documentation and Curation | Lambda Function |
 
 
 
