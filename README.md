@@ -22,7 +22,7 @@ Given the inaccuracy of data, we intended on scrubbing the following items:
 |Cand_Office | Improving readability of data by handling abbreviation of data | Understanding Tidy Data in Spreadsheets | String, Replace function |
 |Cand_Office_St | Whitelisting Candidate Office State to check if the state name mentioned is correct, if not then modify it to 'Unknown' | Data Documentation and Curation | Lambda Function |
 |Cand_State | Whitelisting Candidate State to check if the state name mentioned is correct, if not then modify it to 'Unknown' | Data Documentation and Curation | Lambda Function |
-|Cand_Party_Affiliation | 
+|Cand_Party_Affiliation | Whitelisting Party Affiliation Names to check if the party name mentioned is correct, if not then modify it to 'UNK' (where UNK represents 'Unknown' as per data dictionary) | Data Documentation and Curation | Lambda Function |
 
 
 
