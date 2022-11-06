@@ -17,7 +17,8 @@ Given the inaccuracy of data, we intended on scrubbing the following items:
 | Column Name | Cleaning Agenda | Concept Used from Class |
 |-------------|-----------------|------------------------|
 |Link_Image | Made sure that the link has correct Cand_Id in it and ensured that it had the correct prefix and suffix | Understanding Tidy Data in Spreadsheets & Data Documentation and Curation |
-|Cand_Name | Splitting the candidate name as First Name and Last Name | Understanding Tidy Data in Spreadsheets | 
+|Cand_Name | Split the candidate name as First Name and Last Name | Understanding Tidy Data in Spreadsheets | 
+|Cand_Id | Performing quality check on the pattern of Cand_Id | Data Documentation and Curation |
 
 
 
