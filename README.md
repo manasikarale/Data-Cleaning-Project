@@ -14,11 +14,11 @@ URL: https://www.fec.gov/campaign-finance-data/candidate-summary-file-descriptio
 
 Given the inaccuracy of data, we intended on scrubbing the following items:
 
-| Column Name | Cleaning Agenda | Concept Used from Class |
-|-------------|-----------------|------------------------|
-|Link_Image | Made sure that the link has correct Cand_Id in it and ensured that it had the correct prefix and suffix | Understanding Tidy Data in Spreadsheets & Data Documentation and Curation |
-|Cand_Name | Split the candidate name as First Name and Last Name | Understanding Tidy Data in Spreadsheets | 
-|Cand_Id | Performing quality check on the pattern of Cand_Id | Data Documentation and Curation |
+| Column Name | Cleaning Agenda | Concept Used from Class | Python Techniques |
+|-------------|-----------------|------------------------|-------------------|
+|Link_Image | Made sure that the link has correct Cand_Id in it and ensured that it had the correct prefix and suffix | Understanding Tidy Data in Spreadsheets & Data Documentation and Curation | Lambda function |
+|Cand_Name | Split the candidate name as First Name and Last Name | Understanding Tidy Data in Spreadsheets | String Split function, Lambda function |
+|Cand_Id | Performing quality check on the pattern of Cand_Id | Data Documentation and Curation | Data frame sorting, Lambda function |
 
 
 
