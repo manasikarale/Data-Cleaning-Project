@@ -13,3 +13,6 @@ Below link contains a description of the columns that we cleaned and checked bas
 URL: https://www.fec.gov/campaign-finance-data/candidate-summary-file-description/
 
 Given the inaccuracy of data, we intended on scrubbing the following items:
+
+1. Cleaning Link Image Column: Made sure that the link has correct Cand_Id in it and ensured that it had the correct prefix and suffix
+
