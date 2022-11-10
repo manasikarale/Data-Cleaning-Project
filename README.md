@@ -30,6 +30,7 @@ Given the inaccuracy of data, we intended on scrubbing the following items:
 
 #### Tools Used for Implementing the project
 Python, Excel
+
 Python libraries used: pandas, numpy, string, regex, math
 
 #### Challenges
