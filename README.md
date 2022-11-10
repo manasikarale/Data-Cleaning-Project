@@ -43,3 +43,6 @@ While we were implementing the logic in Python, we faced multiple errors from fo
 
 #### References
 https://www.fec.gov/data/browse-data/?tab=candidates
+
+https://www.fec.gov/campaign-finance-data/candidate-summary-file-description/
+
