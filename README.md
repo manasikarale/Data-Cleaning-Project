@@ -37,12 +37,7 @@ Python, Excel
 Python libraries used: pandas, numpy, string, regex, math
 
 #### Results
-Column Name: Link Image
-Unclean Data:
-![Alt text](Link_Image_unclean.jpg?raw=true "Unclean Link Image data")
 
-Clean Data:
-![Alt text](Link_Image_clean.jpg?raw=true "Clean Link Image data")
 
 #### Challenges
 While we were implementing the logic in Python, we faced multiple errors from format issues, to brainstorming the logic of cleaning particular columns. We took the help of multiple documentations from the Internet to resolve the issues. Before diving into the project, we also read 'Tidy Data' by Hadley Wickham to understand the thorough meaning of clean data. 
