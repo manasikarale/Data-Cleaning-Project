@@ -50,3 +50,7 @@ https://www.fec.gov/campaign-finance-data/candidate-summary-file-description/
 https://pandas.pydata.org/docs/user_guide/index.html#user-guide
 
 https://numpy.org/doc/stable/numpy-user.pdf
+
+https://docs.python.org/3/library/string.html
+
+https://docs.python.org/3/library/re.html
