@@ -12,6 +12,9 @@ Below link contains a description of the columns that we cleaned and checked bas
 
 URL: https://www.fec.gov/campaign-finance-data/candidate-summary-file-description/
 
+#### Motivation
+Since it is election season, we thought of doing something with the election dataset. It is the fundamental right of every American to vote and elect the most suitable representative. For that, it is essential to have a summary of all the candidates and a summary of the work that they have done so far. This can help decide whom to vote for. Hence, we decided to clean the candidate summary dataset. We planned on starting by cleaning the latest dataset which can then be used for reference purposes. We will also be cleaning the remaining 6 files. We strived on making the data user-friendly, readable, and accurate. Our purpose was also to make all the files standard (following a particular pattern) so that it becomes easy for the users to access the files and follow the same standard of data entry process in future files.
+
 #### Cleaning Steps and Columns Cleaned
 
 Given the inaccuracy of data, we intended on scrubbing the following items:
@@ -34,6 +37,7 @@ Python, Excel
 Python libraries used: pandas, numpy, string, regex, math
 
 #### Challenges
+While we were implementing the logic in Python, we faced multiple errors from format issues, to brinstorming the logic of cleaning particular columns. We took the help of multiple documentations from the Internet to resolve the issues. Before diving into the project, we also read 'Tidy Data' by Hadley Wickham to understand the thorough meaning of clean data. 
 
 #### Limitations and Future Scope
 
