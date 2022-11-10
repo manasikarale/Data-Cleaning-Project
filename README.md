@@ -37,7 +37,7 @@ Python, Excel
 Python libraries used: pandas, numpy, string, regex, math
 
 #### Challenges
-While we were implementing the logic in Python, we faced multiple errors from format issues, to brinstorming the logic of cleaning particular columns. We took the help of multiple documentations from the Internet to resolve the issues. Before diving into the project, we also read 'Tidy Data' by Hadley Wickham to understand the thorough meaning of clean data. 
+While we were implementing the logic in Python, we faced multiple errors from format issues, to brainstorming the logic of cleaning particular columns. We took the help of multiple documentations from the Internet to resolve the issues. Before diving into the project, we also read 'Tidy Data' by Hadley Wickham to understand the thorough meaning of clean data. 
 
 #### Limitations and Future Scope
 
@@ -46,3 +46,6 @@ https://www.fec.gov/data/browse-data/?tab=candidates
 
 https://www.fec.gov/campaign-finance-data/candidate-summary-file-description/
 
+https://pandas.pydata.org/docs/user_guide/index.html#user-guide
+
+https://numpy.org/doc/stable/numpy-user.pdf
