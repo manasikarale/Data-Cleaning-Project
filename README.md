@@ -27,5 +27,9 @@ Given the inaccuracy of data, we intended on scrubbing the following items:
 | Cand_Street_1 | Checking the format of street address and also modifying the invalid street address with blank values | Data documentation and Curation | Lambda function and string transformations |
 
 
+#### Challenges
 
+#### Limitations and Future Scope
+
+#### References
 
