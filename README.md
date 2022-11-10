@@ -23,6 +23,8 @@ Given the inaccuracy of data, we intended on scrubbing the following items:
 |Cand_Office_St | Whitelisting Candidate Office State to check if the state name mentioned is correct, if not then modify it to 'Unknown' | Data Documentation and Curation | Lambda Function |
 |Cand_State | Whitelisting Candidate State to check if the state name mentioned is correct, if not then modify it to 'Unknown' | Data Documentation and Curation | Lambda Function |
 |Cand_Party_Affiliation | Whitelisting Party Affiliation Names to check if the party name mentioned is correct, if not then modify it to 'UNK' (where UNK represents 'Unknown' as per data dictionary) | Data Documentation and Curation | Lambda Function |
+|Cand_Zip | Ensuring the validity of zipcode and formatting the zipcodes for better understanding | Data Documentation and Curtion | Lambda function and string transformations |
+| Cand_Street_1 | Checking the format of street address and also modifying the invalid street address with blank values | Data documentation and Curation | Lambda function and string transformations |
 
 
 
