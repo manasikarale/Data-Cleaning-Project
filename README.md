@@ -36,10 +36,26 @@ Python, Excel
 
 Python libraries used: pandas, numpy, string, regex, math
 
+#### Results
+Results can be found in the URL below.
+
+https://github.com/manasikarale/Data-Cleaning-Project/blob/f23d57f75f4bd8702e11fec8f7d0b2b9c1b39f45/Cleaned%20Data%20Results.pdf
+
 #### Challenges
-While we were implementing the logic in Python, we faced multiple errors from format issues, to brinstorming the logic of cleaning particular columns. We took the help of multiple documentations from the Internet to resolve the issues. Before diving into the project, we also read 'Tidy Data' by Hadley Wickham to understand the thorough meaning of clean data. 
+While we were implementing the logic in Python, we faced multiple errors from format issues, to brainstorming the logic of cleaning particular columns. We took the help of multiple documentations from the Internet to resolve the issues. Before diving into the project, we also read 'Tidy Data' by Hadley Wickham to understand the thorough meaning of clean data. 
 
 #### Limitations and Future Scope
+For columns Cand_State and Cand_Office_St we used the already existing dictionary of values from the dataset. But we can also explore to check if there are any existing in-built libraries which we can use to get a complete list of all the states in the U.S. This would make the cleaning process for those columns thorough and robust. We can also think of automating the entire process, so as a new file gets generated at the source our cleaning steps would be implmented without any human intervention. 
 
 #### References
 https://www.fec.gov/data/browse-data/?tab=candidates
+
+https://www.fec.gov/campaign-finance-data/candidate-summary-file-description/
+
+https://pandas.pydata.org/docs/user_guide/index.html#user-guide
+
+https://numpy.org/doc/stable/numpy-user.pdf
+
+https://docs.python.org/3/library/string.html
+
+https://docs.python.org/3/library/re.html
