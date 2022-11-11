@@ -31,7 +31,13 @@ Given the inaccuracy of data, we intended on scrubbing the following items:
 |Cand_State | Whitelisting Candidate State to check if the state name mentioned is correct, if not then modify it to 'Unknown' | Data Documentation and Curation | Lambda Function |
 |Cand_Party_Affiliation | Whitelisting Party Affiliation Names to check if the party name mentioned is correct, if not then modify it to 'UNK' (where UNK represents 'Unknown' as per data dictionary) | Data Documentation and Curation | Lambda Function |
 |Cand_Zip | Ensuring the validity of zipcode and formatting the zipcodes for better understanding | Data Documentation and Curtion | Lambda function and string transformations |
-| Cand_Street_1 | Checking the format of street address and also modifying the invalid street address with blank values | Data documentation and Curation | Lambda function and string transformations |
+|Cand_Street_1 | Checking the format of street address and also modifying the invalid street address with blank values | Data documentation and Curation | Lambda function and string transformations |
+|Individual_Contribution | Checking the accuracy of the calculations | Data documentation and Curation | Lambda function, math function and if-else statement |
+|Total_Contribution | Checking the accuracy of the calculations | Data documentation and Curation | Lambda function, math function and if-else statement |
+|Total_Loan | Checking the accuracy of the calculations | Data documentation and Curation | Lambda function, math function and if-else statement |
+|Total_Loan_Repayment | Checking the accuracy of the calculations | Data documentation and Curation | Lambda function, math function and if-else statement |
+|Total_Contribution_Refund | Checking the accuracy of the calculations | Data documentation and Curation | Lambda function, math function and if-else statement |
+|Net_Contribution | Checking the accuracy of the calculations | Data documentation and Curation | Lambda function, math function and if-else statement |
 
 #### Tools Used for Implementing the project
 Python, Excel
