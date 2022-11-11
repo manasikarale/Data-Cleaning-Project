@@ -41,7 +41,7 @@ Python libraries used: pandas, numpy, string, regex, math
 #### Results
 Results can be found in the URL below.
 
-https://github.com/manasikarale/Data-Cleaning-Project/blob/f23d57f75f4bd8702e11fec8f7d0b2b9c1b39f45/Cleaned%20Data%20Results.pdf
+https://github.com/manasikarale/Data-Cleaning-Project/blob/7a3bfbd3d58575f0cd43d51dbe697c209be0a95c/Cleaned%20Data%20Results.pdf
 
 #### Challenges
 While we were implementing the logic in Python, we faced multiple errors from format issues, to brainstorming the logic of cleaning particular columns. We took the help of multiple documentations from the Internet to resolve the issues. Before diving into the project, we also read 'Tidy Data' by Hadley Wickham to understand the thorough meaning of clean data. 
