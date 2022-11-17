@@ -16,6 +16,11 @@ URL: https://www.fec.gov/campaign-finance-data/candidate-summary-file-descriptio
 </div>
   
 #### Analysis
+1. Party that has the minimum number of candidates for year 2022.
+2. Party in the maximum debt.
+3. Party with the least amount of loan.
+4. Candidate affiliation with Senate, House or President.
+5. Comparing a party's progress over past 12 years.
 
 #### Motivation
 <div style="text-align: justify">
