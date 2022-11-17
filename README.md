@@ -1,6 +1,8 @@
 # Data-Cleaning-Project
 ### Team members: Ayesha Kesharia, Manasi Karale
 #### Dataset background
+
+<div style="text-align: justify">
 The candidate summary file includes a financial summary for any candidate for the House, Senate, or President who has registered with the FEC or is listed on an official state ballot. This data is accessible for the current election as well as previous ones dating back to the 2008 election. There are also special elections for the House and Senate.
 
 In each filing, committees give an overview of their financial activity. The candidate summary file is created by combining these summaries over the course of the whole two-year period. A link to the dataset files can be found in the References section. Totals for a candidate's finances include their main campaign committee as well as any additional committees permitted to raise money on their behalf. The totals range from January 1 of the year prior to the election to the date of the committees' most recent report.
@@ -11,11 +13,14 @@ We found this dataset as a really good technique of applying some of the concept
 Below link contains a description of the columns that we cleaned and checked based on the data dictionary that we found on the website. There are 50 columns and 4475 rows in the dataset.
 
 URL: https://www.fec.gov/campaign-finance-data/candidate-summary-file-description/
-
+</div>
+  
 #### Analysis
 
 #### Motivation
+<div style="text-align: justify">
 Since it is election season, we thought of doing something with the election dataset. It is the fundamental right of every American to vote and elect the most suitable representative. For that, it is essential to have a summary of all the candidates and a summary of the work that they have done so far. This can help decide whom to vote for. Hence, we decided to clean the candidate summary dataset. We planned on starting by cleaning the latest dataset which can then be used for reference purposes. We will also be cleaning the remaining 6 files. We strived on making the data user-friendly, readable, and accurate. Our purpose was also to make all the files standard (following a particular pattern) so that it becomes easy for the users to access the files and follow the same standard of data entry process in future files.
+</div>
 
 #### Cleaning Steps and Columns Cleaned
 
@@ -50,10 +55,14 @@ Results can be found in the URL below.
 https://github.com/manasikarale/Data-Cleaning-Project/blob/7a3bfbd3d58575f0cd43d51dbe697c209be0a95c/Cleaned%20Data%20Results.pdf
 
 #### Challenges
+<div style="text-align: justify">
 While we were implementing the logic in Python, we faced multiple errors from format issues, to brainstorming the logic of cleaning particular columns. We took the help of multiple documentations from the Internet to resolve the issues. Before diving into the project, we also read 'Tidy Data' by Hadley Wickham to understand the thorough meaning of clean data. 
+</div>
 
 #### Limitations and Future Scope
-For columns Cand_State and Cand_Office_St we used the already existing dictionary of values from the dataset. But we can also explore to check if there are any existing in-built libraries which we can use to get a complete list of all the states in the U.S. This would make the cleaning process for those columns thorough and robust. We can also think of automating the entire process, so as a new file gets generated at the source our cleaning steps would be implmented without any human intervention. 
+<div style="text-align: justify">
+For columns Cand_State and Cand_Office_St we used the already existing dictionary of values from the dataset. But we can also explore to check if there are any existing in-built libraries which we can use to get a complete list of all the states in the U.S. This would make the cleaning process for those columns thorough and robust. We can also think of automating the entire process, so as a new file gets generated at the source our cleaning steps would be implemented without any human intervention.
+</div>  
 
 #### References
 https://www.fec.gov/data/browse-data/?tab=candidates
