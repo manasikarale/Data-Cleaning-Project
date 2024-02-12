@@ -1,4 +1,4 @@
-# Data-Cleaning-Project
+# Clean Elections! A-Data-Cleaning-Project
 ### Team members: Ayesha Kesharia, Manasi Karale
 #### Dataset background
 
